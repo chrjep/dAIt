@@ -1,0 +1,29 @@
+body {
+  background-color: #ffffff;
+  color: #000000;
+  font-family: sans-serif;
+}
+
+h1 {
+  font-size: 2em;
+  font-weight: bold;
+  color: #000000;
+}
+
+p {
+  font-size: 1.5em;
+  line-height: 1.5;
+  color: #000000;
+}
+
+img {
+  width: 100%;
+  max-width: 600px;
+}
+
+.call-to-action {
+  background-color: #000000;
+  color: #ffffff;
+  font-weight: bold;
+  font-size: 1.5em;
+}
