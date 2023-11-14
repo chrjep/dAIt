@@ -18,7 +18,7 @@
             const userInput = $('#userInput').val();
             // Send brugerinput til GPT-assistenten
             // Erstatt nedenstående URL med den korrekte API-endepunkt fra OpenAI
-            const apiUrl = 'https://eksempel.com/api/gpt';
+            const apiUrl = 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;
             
             $.post(apiUrl, { input: userInput }, function(data) {
                 // Vis svaret fra GPT-assistenten
